@@ -1,0 +1,14 @@
+﻿{
+  "Name": "bien_ban_doi_soat_S2269…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "dHXGuvZQCkepyW1qgbiXsg",
+  "Reference": "6L-h0gGPUEeZJ-eGCrD4MA/dHXGuvZQCkepyW1qgbiXsg",
+  "ParentRef": "6L-h0gGPUEeZJ-eGCrD4MA/A8QhQdIU8UaiE46Wb9fAzA",
+  "Created": "2026-05-07T02:23:34.0429952Z",
+  "Updated": "2026-05-07T02:23:34.0429952Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "Name": "RPA_GHN_VNPAY_GHTK",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework",
+  "MainFile": "Main.xaml"
+}

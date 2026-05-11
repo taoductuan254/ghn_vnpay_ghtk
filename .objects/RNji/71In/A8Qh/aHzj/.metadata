@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Thông tin hóa đơnTiền t…",
+  "Type": "Element",
+  "Id": "aHzj0XEPm0yQYOKKQiQ56Q",
+  "Reference": "6L-h0gGPUEeZJ-eGCrD4MA/aHzj0XEPm0yQYOKKQiQ56Q",
+  "ParentRef": "6L-h0gGPUEeZJ-eGCrD4MA/A8QhQdIU8UaiE46Wb9fAzA",
+  "Created": "2026-05-07T02:12:05.1390109Z",
+  "Updated": "2026-05-07T02:12:05.1390109Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

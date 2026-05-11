@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Dòng tiền - Lịch sử đối soát",
+  "Type": "Screen",
+  "Id": "A8QhQdIU8UaiE46Wb9fAzA",
+  "Reference": "6L-h0gGPUEeZJ-eGCrD4MA/A8QhQdIU8UaiE46Wb9fAzA",
+  "ParentRef": "6L-h0gGPUEeZJ-eGCrD4MA/71InCqEQIk25UGhY4ztLAA",
+  "Created": "2026-05-07T02:11:26.1928966Z",
+  "Updated": "2026-05-07T02:11:26.1928966Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
